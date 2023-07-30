@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpit/mlflow/mlruns/0/c7746365933d4eed80530842638d4957/artifacts
+end_time: 1690192045242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7746365933d4eed80530842638d4957
+run_name: aged-ray-328
+run_uuid: c7746365933d4eed80530842638d4957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690192045160
+status: 3
+tags: []
+user_id: arpit

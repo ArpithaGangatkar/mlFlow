@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpit/mlflow/mlruns/0/1e8656eeab6a4daabf7706938589b248/artifacts
+end_time: 1690699941126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e8656eeab6a4daabf7706938589b248
+run_name: enchanting-duck-349
+run_uuid: 1e8656eeab6a4daabf7706938589b248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690699937403
+status: 3
+tags: []
+user_id: arpit

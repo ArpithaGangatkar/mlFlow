@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arpit/mlflow/mlruns/0/eaf39fbd50a24da1bde2f9ccd8cfc138/artifacts
+end_time: 1690699509241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf39fbd50a24da1bde2f9ccd8cfc138
+run_name: sedate-croc-712
+run_uuid: eaf39fbd50a24da1bde2f9ccd8cfc138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690699504446
+status: 3
+tags: []
+user_id: arpit
